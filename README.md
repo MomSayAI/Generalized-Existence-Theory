@@ -18,6 +18,7 @@ Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing 
 
 🧭 **New visitor?**  
 Start with the **[GET Reading Guide](https://github.com/MomSayAI/Generalized-Existence-Theory/blob/main/Guide.md)**  
+A 76-episode video series explaining GET from the ground up is in development. Stay tuned.
 — the real entrance, not just a summary.
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
