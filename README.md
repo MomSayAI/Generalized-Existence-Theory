@@ -22,12 +22,13 @@ A 76-episode video series explaining GET from the ground up is in development. S
 — the real entrance, not just a summary.
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
+[![X](https://img.shields.io/badge/X-@MomSayAI-1DA1F2?logo=x&logoColor=white)](https://x.com/MomSayAI)
+[![YouTube](https://img.shields.io/badge/YouTube-@GET_YUQI-red?logo=youtube&logoColor=white)](https://www.youtube.com/@GET_YUQI)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)  <!-- 等拿到 arXiv 再更新 -->
 [![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
 [![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
-<image-card alt="ORCID QR Code" src="https://raw.githubusercontent.com/MomSayAI/General-Existence-Theory/main/assets/orcid-qr.png" ></image-card>
 
 **GET: A zero-parameter unified syntax of existence derived from 5 empirical pillars.**  
 Recognizing the grammar you have always spoken — from quantum vacuum to civilization.  
