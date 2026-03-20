@@ -1,4 +1,4 @@
-# GET: Four-Phase Protocol Recursive Hierarchy — The Unique Syntax of All That Can Be Said
+# GET: A Computable and Programmable Four-Phase Protocol Recursive Hierarchy — The Unique Syntax of All That Can Be Said
 From Vacuum Fluctuations to Intelligent Civilizations: A Zero-Ad-Hoc, Cross-Scale Inevitable Unification
 
 YUQI LION  
