@@ -5,7 +5,7 @@ YUQI LION
 Independent Researcher | Founder of Generalized Existence Theory (GET/SETs)  
 MomSayAI | GET Lab  
 Website: https://exist.chat  
-Email: liangyuqi@exist.chat  
+Email: yuqi@exist.chat  
 GitHub: Generalized-Existence-Theory  
 
 December 2025  
