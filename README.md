@@ -1,5 +1,5 @@
-# GET: A Computable and Programmable Four-Phase Protocol Recursive Hierarchy — The Unique Syntax of All That Can Be Said
-From Vacuum Fluctuations to Intelligent Civilizations: A Zero-Ad-Hoc, Cross-Scale Inevitable Unification
+# Generalized Existence Theory (GET): A Four-Phase Recursive Protocol Hierarchy — The Unique Syntax of All That Can Be Said
+From Vacuum Fluctuations to Intelligent Civilizations: A Computable, Programmable, Ad Hoc-Free, Cross-Scale, Necessary Unification
 
 YUQI LION  
 Independent Researcher | Founder of Generalized Existence Theory (GET/SETs)  
@@ -11,7 +11,7 @@ GitHub: Generalized-Existence-Theory
 December 2025  
 ORCID: https://orcid.org/0009-0009-7849-8105  
 
-**Four-Phase Protocol Hierarchical Recursion: trial → capture → solidify → generate.**  
+**Four-Phase Recursive Protocol Hierarchy: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
 
 # Generalized Existence Theory (GET)
