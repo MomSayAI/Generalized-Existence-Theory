@@ -270,7 +270,7 @@ This framework not only resolves a longstanding problem in quantum foundations, 
 
 ## References
 
-[1] Lion, Y. (2026). Generalized Existence Theory (GET): Four-Phase Protocol Recursive Hierarchy — The Sole Grammar of Sayable Existence. *Foundations of Physics* (under review). Preprint: Research Square (forthcoming).
+[1] Lion, Y. (2026). Generalized Existence Theory (GET): A Four-Phase Recursive Protocol Hierarchy — The Unique Syntax of All That Can Be Said. *Foundations of Physics* (under review). Preprint: Research Square (forthcoming).
 
 [2] Bell, J. S. (1966). On the problem of hidden variables in quantum mechanics. *Reviews of Modern Physics*, 38(3), 447.
 
