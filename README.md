@@ -11,6 +11,10 @@ GitHub: Generalized-Existence-Theory
 December 2025  
 ORCID: https://orcid.org/0009-0009-7849-8105  
 
+This paper presents **Generalized Existence Theory (GET)**, which seeks to address the most fundamental questions in philosophy and physics: **How does existence exist, and how does it evolve?**
+
+From the quantum vacuum to intelligent civilizations, GET proposes a single, zero-ad-hoc generative grammar — the unique syntax of all that can be said.
+
 **Four-Phase Recursive Protocol Hierarchy: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
 
