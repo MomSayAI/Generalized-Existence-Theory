@@ -33,7 +33,7 @@ A 68-episode video series explaining GET from the ground up is in development. S
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
 [![X](https://img.shields.io/badge/X-@MomSayAI-1DA1F2?logo=x&logoColor=white)](https://x.com/MomSayAI)
-[![YouTube](https://img.shields.io/badge/YouTube-@GET_YUQI-red?logo=youtube&logoColor=white)](https://www.youtube.com/@GET_YUQI)
+[![YouTube](https://img.shields.io/badge/YouTube-@ChatWithExist-red?logo=youtube&logoColor=white)](https://www.youtube.com/@ChatWithExist)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)  <!-- Update once arXiv ID is available -->
 [![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
