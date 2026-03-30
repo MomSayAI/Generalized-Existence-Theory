@@ -55,7 +55,6 @@ Anyone with basic logic and modern science literacy can attempt to falsify **Gen
 
 Full details, including the exact falsification criteria, are in the paper.
 
-**Paper:** [`GET_2025.pdf`](https://github.com/MomSayAI/General-Existence-Theory/blob/main/GET_2025.pdf)  
 **Corollary 22 location:** Section 3.4 (Core Corollaries)
 
 *This is not a belief system. It’s a framework that actively invites its own destruction.*
