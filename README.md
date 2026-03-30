@@ -43,6 +43,22 @@ A 68-episode video series explaining GET from the ground up is in development. S
 **GET: A zero-parameter unified syntax of existence derived from 5 empirical pillars.**  
 Recognizing the grammar you have always spoken — from quantum vacuum to civilization.
 
+## 🧪 Challenge: Falsify GET — $10,000 Bounty
+
+Anyone with basic logic and modern science literacy can attempt to falsify **Generalized Existence Theory (GET)** — using AGI, brute‑force search, or any rigorous method.
+
+**Criteria:** Hit any of the **five falsification conditions** stated in **Corollary 22** of the paper.
+
+- **Bounty:** $10,000 (initial, may increase)  
+- **Claim:** If a valid, reproducible falsification is demonstrated, the bounty is paid.  
+- **If not:** The framework stands — no retreat, no fine‑tuning.
+
+Full details, including the exact falsification criteria, are in the paper.
+
+**Paper:** [`GET_2025.pdf`](https://github.com/MomSayAI/General-Existence-Theory/blob/main/GET_2025.pdf)  
+**Corollary 22 location:** Section 3.4 (Core Corollaries)
+
+*This is not a belief system. It’s a framework that actively invites its own destruction.*
 ---
 
 ## A Note on arXiv Endorsement
