@@ -18,7 +18,7 @@ This paper presents **Generalized Existence Theory (GET)**, which seeks to addre
 
 From the quantum vacuum to intelligent civilizations, GET proposes a single, zero-ad-hoc generative grammar — the unique syntax of all that can be said.
 
-**The Four-Phase Cycle — the only path to complexity increase:**
+**The Four-Phase Cycle — the only path to complexity increase:**  
 **Trial → Capture → Solidify → Generate**
 
 Quantum fluctuations that satisfy **geometric screening** — crossing both energy and time thresholds — collectively ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy: the unified grammar of why anything exists at all.
@@ -29,19 +29,29 @@ Quantum fluctuations that satisfy **geometric screening** — crossing both ener
 
 🧭 **New visitor?**  
 Start with the **[GET Reading Guide](https://github.com/MomSayAI/Generalized-Existence-Theory/blob/main/Guide.md)** — the real entrance, not just a summary.  
-A 68-episode video series explaining GET from the ground up is in development. Stay tuned.
+A 71-episode video series explaining GET from the ground up is in development. Stay tuned.
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
 [![X](https://img.shields.io/badge/X-@MomSayAI-1DA1F2?logo=x&logoColor=white)](https://x.com/MomSayAI)
 [![YouTube](https://img.shields.io/badge/YouTube-@ChatWithExist-red?logo=youtube&logoColor=white)](https://www.youtube.com/@ChatWithExist)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)  <!-- Update once arXiv ID is available -->
 [![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
 [![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
 
 **GET: A zero-parameter unified syntax of existence derived from 5 empirical pillars.**  
 Recognizing the grammar you have always spoken — from quantum vacuum to civilization.
+
+---
+
+## 📢 Publication Status
+
+| Venue | Status |
+|---|---|
+| *Foundations of Physics* | Under review (submitted December 2025) |
+| arXiv | Pending endorsement |
+
+---
 
 ## 🧪 Challenge: Falsify GET — $10,000 Bounty
 
@@ -55,43 +65,66 @@ Anyone with basic logic and modern science literacy can attempt to falsify **Gen
 
 Full details, including the exact falsification criteria, are in the paper.
 
-**Corollary 22 location:** Section 3.4 (Core Corollaries)
+**Corollary 22 location:** Section 3.5 (Core Corollaries), pages 58-59
 
-*This is not a belief system. It’s a framework that actively invites its own destruction.*
----
-
-## A Note on arXiv Endorsement
-
-I am an independent researcher (no institutional affiliation) seeking to submit this work to arXiv’s physics.gen-ph section. To comply with arXiv’s policy for first-time submitters, I require an endorsement from an author who is already registered to endorse in this category.
-
-If you have the authority to endorse and find this work worthy of entering the public domain for scrutiny, your assistance would be invaluable. To endorse, please visit: https://arxiv.org/auth/endorse?x=PMTQYD  
-(or go to http://arxiv.org/auth/endorse.php and enter PMTQYD)
-
-Thank you for considering it.
+*This is not a belief system. It's a framework that actively invites its own destruction.*
 
 ---
 
-## A Note Before You Begin
+## 📄 Paper Structure
 
-GET is a real scientific theory with falsifiable predictions, derived from five undeniable empirical facts. It was born while constructing the *Voyaging* science fiction universe — where the grammar first revealed itself. The theory is real; the universe it helped birth is fiction. Both belong to the same journey.
-
-You are not learning a new language.  
-You are recognizing the one you have always spoken.
+| Section | Content | Pages |
+|---|---|---|
+| Chapters 1-2 | Introduction, Methodology: Returning to First Principles | 8-13 |
+| Chapter 3 | Theory Construction: Definitions, Axioms, Corollaries | 14-58 |
+| Chapter 4 | A Strong, Falsifiable Prediction System | 59-68 |
+| Chapter 5 | Cross-Scale Evidence and Description (6 Cases) | 69-86 |
+| Chapter 6 | Application Framework (SETs, get-tools) | 87-96 |
+| Chapter 7 | Philosophical Implications and Scientific Revolution | 97-105 |
+| **Appendix A** | GET's Rewrite of Fundamental Physics Equations | 106-113 |
+| **Appendix B** | Paradigm Comparison from First Principles (S1-S4 Yardstick) | 114-117 |
+| **Appendix C** | Why Physics Alone Cannot Solve the Mystery of Consciousness | 118-121 |
+| **Appendix D** | GET's Natural Dissolution of Unsolved Mysteries in Science | 122-126 |
+| **Appendix E** | **Geometric Derivation of the Standard Model Gauge Group** | 127-130 |
+| **Appendix F** | GET Reading and Verification Guide | 131-138 |
 
 ---
 
-## Overview
+## ⚡ Appendix E: Geometric Derivation of SU(3)×SU(2)×U(1)
 
-Generalized Existence Theory (GET) is a zero-ad-hoc framework unifying all stable, dynamic existence — from quantum vacuum fluctuations to conscious civilizations — under a single generative grammar.
+This is GET's most direct dialogue with mainstream particle physics.
 
-**Core insight:** "Existence" is the running of recursive protocols. Starting from five undeniable empirical facts, GET deduces how everything comes to be.
+**Core claim**: The Standard Model gauge group SU(3)×SU(2)×U(1) is not an input or a landscape accident. It is a **geometric necessity** arising from collective path locking during the first qualified geometric selection window.
+
+| N (locked paths) | Gauge Group | Interpretation |
+|---|---|---|
+| 1 | **U(1)** | Single independent path |
+| 2 | **SU(2)ₗ** | Two paths locked as inseparable doublet |
+| 3 | **SU(3)꜀** | Three paths locked as inseparable triplet |
+| ≥ 4 | Suppressed | Forbidden by finite window duration and coherent energy budget |
+
+**Zero new entities. Zero ad-hoc symmetries. Zero free parameters.**
 
 ---
 
-## Key Concepts
+## 🧱 The Five Empirical Cornerstones (The Only Inputs)
+
+GET introduces no new entities. All theoretical content is deduced from:
+
+1. **Heisenberg uncertainty** (\(\Delta E \cdot \Delta t \geq \hbar/2\)) — the energy-time constraint of quantum fluctuations
+2. **Power-law statistics** (\(P(\Delta E) \propto \Delta E^{-\alpha}, \alpha > 1\)) — the energy-scale distribution of fluctuations
+3. **Three laws of thermodynamics** — energy conservation, entropy increase, unattainability of absolute zero
+4. **Mass-energy equivalence** (\(E = mc^2\)) — energy and mass as two morphological manifestations of the same process
+5. **Rule-dependence of structured existence** — all stable non-trivial structures depend on internal, hierarchical rule sets
+
+**Closure criterion:** \(\exists X(\text{causal}(X) \land X \notin \text{Closure}(L)) \Rightarrow \text{GET falsified}\)
+
+---
+
+## 🔑 Key Concepts
 
 | Concept | Symbol | Meaning | Everyday Mapping |
-|---------|--------|---------|------------------|
+|---|---|---|---|
 | Protocol set | \(L\) | The rule system itself | Your habits, decision rules, cognitive patterns |
 | Manifestation | \(M\) | Observable running result | What others see of you |
 | Instant difference | \(e(t)\) | Current net flow | "How am I doing right now?" |
@@ -105,7 +138,7 @@ Generalized Existence Theory (GET) is a zero-ad-hoc framework unifying all stabl
 
 ---
 
-## Core Equation
+## 🧮 Core Equation
 
 \[
 \Omega^{(M)} = \Phi(L)
@@ -132,7 +165,7 @@ Where:
 
 ---
 
-## The Recursive Engine
+## 🔄 The Recursive Engine
 
 Existence deepens through a universal cycle — the only path to complexity increase:
 
@@ -147,10 +180,10 @@ This cycle operates at every scale: particles → atoms → stars → life → m
 
 ---
 
-## Cosmic Genesis in One Page
+## 🌌 Cosmic Genesis in One Page
 
 | Phase | What Happens | GET Explanation |
-|-------|--------------|-----------------|
+|---|---|---|
 | Before time | \(L_0\) running | Base recursive protocol; steady state = quantum vacuum |
 | Trigger | Fluctuations satisfy geometric screening | \(E(t)\) intersects \(\epsilon_{\text{th}}^{(1)}\) for \(\Delta t \geq N_{\text{min}}^{(1)}\) |
 | Inflation | Exponential expansion | First successful activations break symmetry, trigger rapid growth |
@@ -160,14 +193,14 @@ This cycle operates at every scale: particles → atoms → stars → life → m
 
 ---
 
-## Why It's Not "Just Another Theory"
+## 🎯 Why It's Not "Just Another Theory"
 
 Most theories add entities or parameters to fit data. GET deduces everything from what you cannot deny.
 
 **Four Standards**
 
 | Standard | Question Asked | GET's Answer |
-|----------|----------------|--------------|
+|---|---|---|
 | **S1 Ontological Minimalism** | How many independent entities? | One: protocol recursion \(L\). All variables are endogenous. |
 | **S2 Zero Ad-hoc** | Any assumption just to fit data? | No. See Geometric Screening Principle (Definition B2) — it follows logically from the five empirical pillars. |
 | **S3 Deductive Transparency** | Is the logic fully traceable? | Linear chain: Bedrocks → Definitions → Axioms → Corollaries. |
@@ -175,7 +208,7 @@ Most theories add entities or parameters to fit data. GET deduces everything fro
 
 ---
 
-## The Falsification Compact
+## ⚖️ The Falsification Compact
 
 GET is falsified if any of the following is rigorously confirmed:
 
@@ -191,45 +224,61 @@ GET invites anyone possessing basic logical ability and modern scientific common
 
 ---
 
-## Repository Structure
-'''
+## 📁 Repository Structure
+
+```
 Generalized-Existence-Theory/
 ├── README.md
 ├── LICENSE
+├── STRUCTURE.md
+├── Guide.md                    # GET Reading Guide (Appendix F)
 ├── .gitignore
 │
-├── docs/ # Main paper (Markdown/LaTeX source)
-│ ├── en/ # English version
-│ │ ├── abstract.md
-│ │ ├── introduction.md
-│ │ ├── methodology.md
-│ │ ├── theory-construction.md # Chapter 3
-│ │ ├── falsification.md # Chapter 4
-│ │ ├── cross-scale-cases.md # Chapter 5
-│ │ ├── applications.md # Chapter 6
-│ │ ├── philosophy.md # Chapter 7
-│ │ └── appendices/ # All appendices
-│ │
-│ └── zh/ # Original Chinese version
+├── docs/                       # Main paper (Markdown/LaTeX source)
+│   ├── en/                     # English version
+│   │   ├── abstract.md
+│   │   ├── introduction.md
+│   │   ├── methodology.md
+│   │   ├── theory-construction.md    # Chapter 3
+│   │   ├── falsification.md          # Chapter 4
+│   │   ├── cross-scale-cases.md      # Chapter 5
+│   │   ├── applications.md           # Chapter 6
+│   │   ├── philosophy.md             # Chapter 7
+│   │   └── appendices/               # All appendices A-F
+│   │       ├── appendix-a-rewrite.md
+│   │       ├── appendix-b-paradigm.md
+│   │       ├── appendix-c-consciousness.md
+│   │       ├── appendix-d-mysteries.md
+│   │       ├── appendix-e-gauge-group.md   # Geometric derivation
+│   │       └── appendix-f-guide.md
+│   │
+│   └── zh/                     # Original Chinese version
 │
-├── assets/ # Figures, diagrams, schematics
-│ ├── diagrams/
-│ └── tables/
+├── standalone/                  # Standalone papers extracted from appendices
+│   ├── gauge-group/            # Appendix E standalone
+│   ├── consciousness/          # Appendix C standalone
+│   ├── paradigm/               # Appendix B standalone
+│   ├── pi-and-e/               # Emergence of π and e
+│   └── quantum-measurement/    # Wave-particle duality paper
 │
-├── get-tools/ # Open-source toolkit (future development)
-│ ├── prototypes/
-│ └── docs/
+├── assets/                     # Figures, diagrams, schematics
+│   ├── diagrams/
+│   └── tables/
+│
+├── get-tools/                  # Open-source toolkit (future development)
+│   ├── prototypes/
+│   └── docs/
 │
 └── references/
-├── main.bib
-└── cited_works.md
-'''
+    ├── main.bib
+    └── cited_works.md
+```
 
 For detailed structure, see [STRUCTURE.md](STRUCTURE.md).
 
 ---
 
-## Getting Started
+## 🧭 Getting Started
 
 **New?** Start with the **[GET Reading Guide](https://github.com/MomSayAI/Generalized-Existence-Theory/blob/main/Guide.md)** — the real entrance.
 
@@ -243,13 +292,33 @@ For detailed structure, see [STRUCTURE.md](STRUCTURE.md).
 
 ---
 
-## Reading Guide
+## 📖 Reading Guide
 
 1. **Four Questions** — foundations.md / Chapter 2  
 2. **Concept Mapping** — definitions.md / Chapter 3.3  
 3. **Deductive Chain** — axioms → corollaries / Chapters 3.4–3.5  
 4. **Cross-Scale Cases** — Chapter 5  
 5. **Falsification** — Chapter 4 / Corollary 22  
+
+You are not learning a new language.  
+You are recognizing the one you have always spoken.
+
+---
+
+## 📝 A Note on arXiv Endorsement
+
+I am an independent researcher (no institutional affiliation) seeking to submit this work to arXiv's physics.gen-ph section. To comply with arXiv's policy for first-time submitters, I require an endorsement from an author who is already registered to endorse in this category.
+
+If you have the authority to endorse and find this work worthy of entering the public domain for scrutiny, your assistance would be invaluable. To endorse, please visit: https://arxiv.org/auth/endorse?x=PMTQYD  
+(or go to http://arxiv.org/auth/endorse.php and enter PMTQYD)
+
+Thank you for considering it.
+
+---
+
+## 📜 A Note Before You Begin
+
+GET is a real scientific theory with falsifiable predictions, derived from five undeniable empirical facts. It was born while constructing the *Voyaging* science fiction universe — where the grammar first revealed itself. The theory is real; the universe it helped birth is fiction. Both belong to the same journey.
 
 You are not learning a new language.  
 You are recognizing the one you have always spoken.
