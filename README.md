@@ -32,7 +32,7 @@ Start with the **[GET Reading Guide](https://github.com/MomSayAI/Generalized-Exi
 A 71-episode video series explaining GET from the ground up is in development. Stay tuned.
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
-[![X](https://img.shields.io/badge/X-@MomSayAI-1DA1F2?logo=x&logoColor=white)](https://x.com/MomSayAI)
+[![X](https://img.shields.io/badge/X-@ChatWithExist-1DA1F2?logo=x&logoColor=white)](https://x.com/ChatWithExist)
 [![YouTube](https://img.shields.io/badge/YouTube-@ChatWithExist-red?logo=youtube&logoColor=white)](https://www.youtube.com/@ChatWithExist)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
 [![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
