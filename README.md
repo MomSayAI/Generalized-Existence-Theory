@@ -48,7 +48,7 @@ Recognizing the grammar you have always spoken — from quantum vacuum to civili
 
 | Venue | Status |
 |---|---|
-| *Foundations of Physics* | Under review (submitted December 2025) |
+| *Foundations of Physics* | Under review (submitted March 18th 2026) |
 | arXiv | Pending endorsement |
 
 ---
